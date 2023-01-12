@@ -15,6 +15,7 @@ import java.util.Properties;
 @PropertySource("classpath:db.properties")
 public class RootContextConfig {
 
+
     @Autowired
     private Environment environment;
 
