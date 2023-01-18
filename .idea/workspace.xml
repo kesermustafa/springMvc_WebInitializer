@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce37bd9-06a2-4c38-87fe-d3fa655149c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/repository/StudentRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/RootContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/RootContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +56,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java2022Proje/springbootintro&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -111,7 +105,11 @@
       <workItem from="1673520105579" duration="5905000" />
       <workItem from="1673540342865" duration="9000" />
       <workItem from="1673540433168" duration="25000" />
-      <workItem from="1673546390921" duration="10123000" />
+      <workItem from="1673546390921" duration="11556000" />
+      <workItem from="1673558805959" duration="787000" />
+      <workItem from="1673603924109" duration="12646000" />
+      <workItem from="1673633064316" duration="2294000" />
+      <workItem from="1673713709316" duration="41000" />
     </task>
     <servers />
   </component>
